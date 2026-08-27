@@ -17,6 +17,10 @@
 ![](https://streak-stats.demolab.com/?user=meghrajpatil1313&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=meghrajpatil1313&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<br><br>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
